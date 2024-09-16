@@ -38,5 +38,4 @@ const HomeCards = () => {
         </div>
     )
 };
-
 export default HomeCards;
