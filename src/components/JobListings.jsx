@@ -3,7 +3,7 @@ import jobs from '../../jobs.json';
 import JobListing from "./JobListing.jsx";
 
 const JobListings = () => {
-   const recent = jobs.slice(0, 3);
+   const recent = jobs.slice(0, 7);
     return (
         <div>
             <section className="bg-blue-50 px-4 py-10">
